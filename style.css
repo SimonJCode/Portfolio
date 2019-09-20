@@ -33,7 +33,7 @@ h1{
     padding: 10px;
 }
 
-#keanu{
+#image-me{
     width: 80%;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -63,14 +63,8 @@ h1{
     font-size: 4em;
 }
 
-.tabimg{
-    width: 30%;
-    margin-top: 15px;
-}
-
 .my-row-3{
-    background-image: linear-gradient( rgba(255,0,0,0), rgb(0, 0, 0));
-    
+    background-image: linear-gradient( rgba(255,0,0,0), rgb(0, 0, 0));  
 }
 
 i:hover{
