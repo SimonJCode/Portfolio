@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body{
+    background-image: url("/images/bg-main2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 1.1em;
+}
+
+.my-header{
+    background-image: linear-gradient( rgb(0, 0, 0) ,rgba(255,0,0,0));
+}
+
+.divider{
+ width: 85%;
+}
+
+h1{
+    margin: 15px;
+    font-family: 'Prata', serif;
+    font-size: 2.6em;
+}
+
+.info{
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 10%;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+#keanu{
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+}
+
+.kontakt-text{
+    margin-left: 10%;
+}
+
+#links-div{
+    margin-left: 10%;
+}
+
+.link-buttons{
+    float: left;
+    margin-right: 25px;
+    font-size: 3em;
+}
+
+.my-layout{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.to-top-button{
+    margin: 20px;
+    font-size: 4em;
+}
+
+.tabimg{
+    width: 30%;
+    margin-top: 15px;
+}
+
+.my-row-3{
+    background-image: linear-gradient( rgba(255,0,0,0), rgb(0, 0, 0));
+    
+}
+
+i:hover{
+    color: coral;
+}
