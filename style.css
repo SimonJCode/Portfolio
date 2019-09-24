@@ -52,6 +52,13 @@ h1{
     float: left;
     margin-right: 25px;
     font-size: 3em;
+    color: coral;
+}
+
+#gitrepos{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20%;
 }
 
 .my-layout{
@@ -67,6 +74,15 @@ h1{
     background-image: linear-gradient( rgba(255,0,0,0), rgb(0, 0, 0));  
 }
 
-i:hover{
+i:hover, a:hover{
+    color: orange;
+}
+
+a, i{
     color: coral;
+}
+
+#gitrepos a{
+    text-decoration: underline;
+    margin-bottom: 15px;
 }
